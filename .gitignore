@@ -1,4 +1,7 @@
 
-#git_ignore files and dir.
+#git_ignore directories
 secure
+
+#git_ignore files
 guilty_pleasures.md
+advert.html
